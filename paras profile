@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<base href="https://en.wikipedia.org/wiki/Cricket" target="-blanck"><br>
+<meta charset="utf-8">
+<!--<base href="https://www.google.co.in/search?q=google&rlz=1C1NDCM_enIN748IN748&oq=goo&aqs=chrome.1.69i57j0l5.4236j0j8&sourceid=chrome&ie=UTF-8" target="-blank"><br>-->
+	<title>MY PROFILE</title>
+</head>
+<body bgcolor="#e1dfe0" >
+<p  align="center">
+<!--<style type="text/css">-->
+
+    <strong ><font size="15" color="white"><u> NAME - PARAS JAIN</u></font></strong><br>
+	<b><font size="10" color="#665D1E"><u>COURSE - BTECH</u></font></b><br>
+	<b><font size="10" color="#8db600"><u> YEAR - Second</u></font></b><br>
+	<B><U><font size="8" color="e9d66b">HOBBIES - CRICKET</font></U></B><br>
+	<i><font size="4" color="#ff2052">Learn About Cricket</font></i> <br>
+	<a href="Cricket"><font size="4" color="white"><button><i>Click here</i></button></font></a><br>
+	<em>  <font size="04">   FAVOURITE MOVIES </font></em><br>
+	<a href="http://www.bollywoodmingle.com"><button ><font color="red"><b><i>Click here</i></b></font></button></a><br><hr>
+      <b><font size="8" color="#247fe"><u> Favourite books</u></font></b> <br>
+
+	<ul type="square">
+		<li><mark><font size="6" color="green"><i> Ravaan--orphan of aaryvaat</i></font></mark></li>
+		<li><mark><font size="6" color="dark red"><i>Sita the warrior of methaala</i></font></mark> </li>
+		<li><mark><font size="6" color="purple"><i>The undescriptable time</i></font></mark> </li>
+
+
+
+</ul>
+<br><br>
+
+	<em><font size="6"><font color="red"><u>  PRINCIPLE</u>  </font></font></em><br>
+	<q><font size="4"><font color="orange"> MAKe A WORLD  A HAPPY PLACE WHERE ALL MY BROTHERS AND SISTERS LIVE TOGETHER</font></font> </q><br><br>
+<aside><i><b><font size="10"><font color="pink"> Alaways be cool as u are</font></font></b></i></aside>
+
+<br><br>
+
+ 
+ </p>
+
+ <section bgcolor="#e1dfe0"> 
+
+<h2>I <font size="3" color="green">Don't want to &nbsp;&nbsp;&nbsp;</font><font size="10"> <i>live forever</i></font></h2><font size="4" color="red">As I Am Not a Devil</font> <br><br>
+ </section>
+ <img src="gaillardia_blanket_flowers_perennial_221655.JPG" alt="MY PROFILE PICTURE"><br><br>
+ <i><em><font size="10" color="#665D1E"> DO YOU LIKE MY PROFILE (yes/no) </font></em></i>
+ <input type="text" type="color" ><br><br>
+ <p align="center">
+<i><em><font size="10" color="red">WANT TO SUGGEST SOME CHANGES(yes/no)</font></em></i>
+<input type="text" type="color"><br><br>
+<p align="center">
+ <button >Submit</button>
+ </p>
+</body>
+</html>
